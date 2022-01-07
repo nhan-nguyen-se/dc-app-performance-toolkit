@@ -1,0 +1,34 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,App specific
+jmeter_login_and_view_dashboard,1,3072,3072,3072,3072,3072,3072,3072,0.0,False
+jmeter_search_cql:recently_viewed,23,293,238,461,466,469,227,470,0.0,False
+jmeter_search_cql:search_results,23,595,548,718,727,925,453,981,0.0,False
+jmeter_view_page:open_page,3,6053,5696,7028,7194,7328,5103,7361,0.0,False
+jmeter_view_dashboard,3,2564,2604,2842,2872,2896,2187,2902,0.0,False
+jmeter_view_blog,3,5735,5794,6228,6283,6326,5073,6337,0.0,False
+jmeter_create_blog:blog_editor,3,3353,3350,3457,3471,3481,3225,3484,0.0,False
+jmeter_create_blog:feel_and_publish,3,6677,6652,6731,6741,6749,6627,6751,0.0,False
+jmeter_create_and_edit_page:create_page_editor,3,4642,4386,5028,5108,5172,4352,5188,0.0,False
+jmeter_create_and_edit_page:create_page,2,7448,7448,7775,7816,7849,7038,7857,0.0,False
+jmeter_create_and_edit_page:open_editor,2,2588,2588,2701,2715,2726,2447,2729,0.0,False
+jmeter_create_and_edit_page:edit_page,2,6710,6710,6864,6883,6898,6517,6902,0.0,False
+jmeter_comment_page,2,1848,1848,1854,1854,1855,1840,1855,0.0,False
+jmeter_view_attachment,2,4744,4744,4744,4744,4744,4743,4744,0.0,False
+jmeter_upload_attachment,2,6394,6394,7808,7984,8126,4628,8161,0.0,False
+jmeter_like_page,2,470,470,475,475,476,464,476,0.0,False
+selenium_login:open_login_page,15,554,372,503,1269,2569,358,2894,0.0,False
+selenium_login:login_and_view_dashboard,15,1245,1131,1769,2086,2225,876,2260,0.0,False
+selenium_login,15,1890,1592,2446,3424,4768,1351,5104,0.0,False
+selenium_view_page,15,1515,989,3617,4897,5613,452,5792,0.0,False
+selenium_create_page:open_create_page_editor,15,1589,1442,1548,2177,3318,1378,3603,0.0,False
+selenium_create_page:save_created_page,15,1694,1576,2268,2704,2804,1335,2829,0.0,False
+selenium_create_page,15,4033,3679,4490,6005,7971,3372,8462,0.0,False
+selenium_edit_page:open_create_page_editor,15,3464,3494,3722,3859,3954,2965,3978,0.0,False
+selenium_edit_page:save_edited_page,15,2350,2503,2720,2763,2831,1827,2848,0.0,False
+selenium_edit_page,15,5838,5706,6342,6495,6778,4891,6849,0.0,False
+selenium_create_comment:write_comment,15,1981,1672,3203,3993,4003,1432,4006,0.0,False
+selenium_create_comment:save_comment,15,640,625,666,711,773,606,789,0.0,False
+selenium_create_comment,15,3506,3165,4743,5285,5335,2863,5347,0.0,False
+selenium_view_blog,15,583,521,653,859,1161,482,1237,0.0,False
+selenium_view_dashboard,15,694,671,817,866,897,576,905,0.0,False
+iframe for confluence,15,1674,1667,1808,1821,1843,1539,1848,0.0,True
+selenium_log_out,15,705,693,766,811,895,628,916,0.0,False
